@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding: 0;
+    box-shadow: 0;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    margin-top: 300px;
+}
+
+
+button{
+    padding: 15px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#buttons{
+    display: flex;
+    gap: 30px;
+}
